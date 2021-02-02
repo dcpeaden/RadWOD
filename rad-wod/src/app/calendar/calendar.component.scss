@@ -1,0 +1,11 @@
+.input-group {
+  margin-top: 1.5rem;
+}
+
+button.calendar, button.calendar:active {
+  width: 2.75rem;
+  background-image: url("../../assets/images/calendar.svg") !important;
+  background-repeat: no-repeat;
+  background-size: 23px;
+  background-position: center;
+}
